@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Product B",
+      "price": 300,
+      "img": "anh"
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "price": 400,
+      "img": "anh"
+    },
+    {
+      "name": "admin",
+      "price": 11111,
+      "img": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142434/anhhtus/%C4%90%E1%BB%81%20thi/pro_2021_smiuet.png",
+      "id": 4
+    },
+    {
+      "name": "admin",
+      "price": 11111,
+      "img": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142434/anhhtus/%C4%90%E1%BB%81%20thi/pro_2021_smiuet.png",
+      "id": 5
+    },
+    {
+      "name": "admin",
+      "price": 11111,
+      "img": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142434/anhhtus/%C4%90%E1%BB%81%20thi/pro_2021_smiuet.png",
+      "id": 6
+    },
+    {
+      "name": "admin",
+      "price": 11111,
+      "img": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142434/anhhtus/%C4%90%E1%BB%81%20thi/pro_2021_smiuet.png",
+      "id": 7
+    },
+    {
+      "name": "admin",
+      "price": 11111,
+      "img": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142434/anhhtus/%C4%90%E1%BB%81%20thi/pro_2021_smiuet.png",
+      "id": 8
+    },
+    {
+      "name": "admin",
+      "price": 11111,
+      "img": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142434/anhhtus/%C4%90%E1%BB%81%20thi/pro_2021_smiuet.png",
+      "id": 9
+    },
+    {
+      "name": "huy",
+      "price": 4,
+      "img": "anh2",
+      "id": 10
+    },
+    {
+      "name": "huy",
+      "price": 4,
+      "img": "anh2",
+      "id": 11
+    },
+    {
+      "name": "aaaaaa",
+      "price": "22222",
+      "id": 12
+    },
+    {
+      "name": "aaaaaa",
+      "price": "22222",
+      "id": 13
+    },
+    {
+      "name": "aaaaaa",
+      "price": "22222",
+      "id": 14
+    },
+    {
+      "name": "aaaaaa",
+      "price": "22222",
+      "id": 15
+    }
+  ]
+}
